@@ -1,0 +1,11 @@
+{
+  "default": "pokemon-amarillo",
+  "games": {
+    "pokemon-amarillo": {
+      "title": "Pokemon Amarillo",
+      "rom": "roms/pokemon-amarillo.gbc",
+      "core": "gb",
+      "color": "#f7d84a"
+    }
+  }
+}
